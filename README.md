@@ -1,4 +1,4 @@
-# securin-recipies-app
+
 # Securin Assessment - Recipes App
 
 ## 🚀 Setup
